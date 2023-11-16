@@ -1,3 +1,12 @@
+/**
+ * Begin - Links.
+ * 
+ * https://github.com/liu-yucheng/p5-js-Sphere-Physics
+ * https://editor.p5js.org/liu-yucheng/sketches/BmJQ97xhs
+ * 
+ * End - Links.
+ */
+
 let planets = [
   new Planet(
     20,
@@ -47,5 +56,5 @@ function draw() {
     }
   }
 
-  console.log(planets);
+  // console.log(planets);
 }
